@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.psx-place.com/threads/ps2-starter-riptos-recommendations.45976/" target="_blank"><img src="https://github.com/user-attachments/assets/2a9b4df8-993f-4f0a-8896-074d7840b8ce"></a></br>
-<a href="https://www.psx-place.com/threads/ps2-starter-riptos-recommendations.45976/" target="_blank"><img src="https://github.com/user-attachments/assets/e666098c-fd28-400f-89b8-2d5f0a55a020"></a></br>
+<a href="https://www.psx-place.com/threads/ps2-starter-riptos-recommendations.45976/" target="_blank"><img src="https://github.com/user-attachments/assets/5ab59755-65f6-47d0-b005-d20ed0dbcb42"></a></br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nathanneurotic"></a>
 </p>
 <!--
