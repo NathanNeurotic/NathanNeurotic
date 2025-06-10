@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nathanneurotic.github.io/AI" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8b2afbbc-115a-47dd-9cc3-be19556e123b" alt="Firstnd Image">
+    <img src="https://github.com/user-attachments/assets/54aa2cf3-15c4-41aa-abbd-66f59d068382" alt="Firstnd Image">
   </a>
   <a href="https://www.psx-place.com/threads/ps2-starter-riptos-recommendations.45976/" target="_blank">
     <img src="https://github.com/user-attachments/assets/2a9b4df8-993f-4f0a-8896-074d7840b8ce" alt="First Image">
