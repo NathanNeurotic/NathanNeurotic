@@ -16,12 +16,12 @@ So this version:
      ========================= -->
 
   <a href="">
-    <img width="630" height="420" alt="NathanNeurotic Ripto Riggs Noah Nate Github Banner" src="https://github.com/user-attachments/assets/ff36f719-2fd6-4872-b3a7-c6e85b9d0361" />
+    <img width="610" height="407" alt="NathanNeurotic Ripto Riggs Noah Nate Github Banner" src="https://github.com/user-attachments/assets/ff36f719-2fd6-4872-b3a7-c6e85b9d0361" />
   </a>
 </p>
 
   <a href="https://www.chatgpt.com/">
-    <img width="630" height="63" alt="riptwogpt" src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
+    <img width="610" height="61" alt="riptwogpt" src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
   </a>
 </p>
 
