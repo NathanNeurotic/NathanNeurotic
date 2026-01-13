@@ -39,7 +39,7 @@ So this version:
 <tr>
 <td valign="top" style="width:33%;">
 <details>
-<summary><b>Toolbelt</b></summary>
+<summary><b>--run</b></summary>
 <br />
 
 <a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
@@ -74,7 +74,7 @@ So this version:
 <a href="https://yuanbao.tencent.com/"><img width="50" height="50" alt="yuanbao-color" src="https://github.com/user-attachments/assets/aaae69ee-6637-47b9-9628-3002a2deae59" /></a><br>
 </p>
 
-<!-- TOOLBELT PLACEHOLDERS (copy/paste + fill in) -->
+<!-- --run PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="https://EXAMPLE.com/"><img width="50" height="50" alt="example" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID" /></a> -->
 <!-- <a href="https://EXAMPLE2.com/"><img width="50" height="50" alt="example2" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID_2" /></a> -->
 
@@ -84,13 +84,13 @@ So this version:
 
 <td valign="top" style="width:33%;">
 <details>
-<summary><b>Guides</b></summary>
+<summary><b>--help</b></summary>
 <br />
 
 <a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
 </p>
 
-<!-- GUIDES PLACEHOLDERS (copy/paste + fill in) -->
+<!-- --help PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_2.md"><img alt="Guide 2" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_2" width="160" height="40" /></a> -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_3.md"><img alt="Guide 3" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_3" width="160" height="40" /></a> -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_4.md"><img alt="Guide 4" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_4" width="160" height="40" /></a> -->
@@ -101,7 +101,7 @@ So this version:
 
 <td valign="top" style="width:33%;">
 <details>
-<summary><b>Reserved</b></b></summary>
+<summary><b>--connect</b></b></summary>
 <br />
 <a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a></p>
 
@@ -120,7 +120,7 @@ So this version:
 
 <b>----------Outbound----------</b></p>
 <details>
-<summary><b>Toolbelt</b></summary>
+<summary><b>--run</b></summary>
 <br />
 <a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
 <a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a>
@@ -159,7 +159,7 @@ So this version:
 
 <b>----------Local----------</b></p>
 <details>
-<summary><b>Guides</b></summary>
+<summary><b>--help</b></summary>
 <br />
 
 <a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
@@ -171,7 +171,7 @@ So this version:
 
 <b>----------Network----------</b></p>
 <details>
-<summary><b>Reserved</b></summary>
+<summary><b>--connect</b></summary>
 <br />
 <i>(Optional: duplicate Column 3 content here.)</i></p>
 <br />
