@@ -33,7 +33,7 @@ So this version:
 <tr>
 <th style="width:33%; text-align:center;">------------Outbound------------</th>
 <th style="width:33%; text-align:center;">------------Local------------</th>
-<th style="width:33%; text-align:center;">------------Remote------------</th>
+<th style="width:33%; text-align:center;">------------Network------------</th>
 </tr>
 
 <tr>
@@ -103,7 +103,7 @@ So this version:
 <details>
 <summary><b>Reserved</b></b></summary>
 <br />
-<i>(Reserved)</i></p>
+<a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a></p>
 
 <!-- COLUMN 3 PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="https://LOCAL_TOOL_OR_RESOURCE_URL"><img width="50" height="50" alt="local-tool" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID" /></a> -->
@@ -169,7 +169,7 @@ So this version:
 
 <br />
 
-<b>----------Remote----------</b></p>
+<b>----------Network----------</b></p>
 <details>
 <summary><b>Reserved</b></summary>
 <br />
