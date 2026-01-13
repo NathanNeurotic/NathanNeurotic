@@ -35,3 +35,39 @@
 </p>
 
 </p>
+<!-- ===== Guides (Collapsible Buttons) ===== -->
+<details>
+  <summary><b>Guides</b></summary>
+
+  <br />
+
+  <p align="center">
+    <!-- Button 1 -->
+    <a href="Mastering_AI_Without_Overthinking_It.md.md">
+      <img
+        alt="Guide 1"
+        src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947"
+        width="160"
+        height="40"
+      />
+    </a>
+<!--#    <a href="PATH_TO_YOUR_GUIDE_2.md">
+#      <img
+#        alt="Guide 2"
+#        src="PATH_TO_YOUR_BUTTON_IMAGE_2.png"
+#        width="160"
+#        height="40"
+#      />
+#    </a>
+#    <a href="PATH_TO_YOUR_GUIDE_3.md">
+#      <img
+#        alt="Guide 3"
+#        src="PATH_TO_YOUR_BUTTON_IMAGE_3.png"
+#        width="160"
+#        height="40"
+#      />
+#    </a>-->
+  </p>
+
+  <br />
+</details>
