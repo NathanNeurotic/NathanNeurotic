@@ -16,7 +16,7 @@ So this version:
      ========================= -->
 
   <a href="">
-    <img width="640" height="420" alt="NathanNeurotic Ripto Riggs Noah Nate Github Banner" src="https://github.com/user-attachments/assets/ff36f719-2fd6-4872-b3a7-c6e85b9d0361" />
+    <img width="640" height="420" alt="NathanNeurotic Ripto Riggs Noah Nate Github Banner" src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" />
   </a>
 </p>
 
