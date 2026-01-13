@@ -173,7 +173,7 @@ So this version:
 <details>
 <summary><b>--connect</b></summary>
 <br />
-<i>(Optional: duplicate Column 3 content here.)</i></p>
+<a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a></p>
 <br />
 </details></th>
 </tr>
