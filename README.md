@@ -31,9 +31,9 @@ So this version:
 
 <table width="100%" border="1" cellspacing="0" cellpadding="16" style="width:100%; table-layout:fixed;">
 <tr>
-<th style="width:33%; text-align:center;">------------Outbound------------</th>
-<th style="width:33%; text-align:center;">------------Local------------</th>
-<th style="width:33%; text-align:center;">------------Network------------</th>
+<th style="width:33%; text-align:center;">------------ Outbound ------------</th>
+<th style="width:33%; text-align:center;">------------ Local ------------</th>
+<th style="width:33%; text-align:center;">------------ Network ------------</th>
 </tr>
 
 <tr>
@@ -118,7 +118,7 @@ So this version:
 <summary><b>Mobile Friendly</b><i><br>(Verticle Stacked Layout)</i></summary>
 <br />
 
-<b>----------Outbound----------</b></p>
+<b>---------- Outbound ----------</b></p>
 <details>
 <summary><b>--run</b></summary>
 <br />
@@ -157,7 +157,7 @@ So this version:
 
 <br />
 
-<b>----------Local----------</b></p>
+<b>---------- Local ----------</b></p>
 <details>
 <summary><b>--help</b></summary>
 <br />
@@ -169,7 +169,7 @@ So this version:
 
 <br />
 
-<b>----------Network----------</b></p>
+<b>---------- Network ----------</b></p>
 <details>
 <summary><b>--connect</b></summary>
 <br />
