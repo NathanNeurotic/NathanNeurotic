@@ -16,12 +16,12 @@ So this version:
      ========================= -->
 
   <a href="">
-    <img width="640" height="420" alt="NathanNeurotic Ripto Riggs Noah Nate Github Banner" src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" />
+    <img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" />
   </a>
 </p>
 
   <a href="https://www.chatgpt.com/">
-    <img width="640" height="64" alt="riptwogpt" src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
+    <img src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
   </a>
 </p>
 
@@ -29,15 +29,15 @@ So this version:
      DESKTOP LAYOUT (3 COLUMNS)
      ========================= -->
 
-<table width="100%" border="1" cellspacing="0" cellpadding="16" style="width:100%; table-layout:fixed;">
+<table width="150%" border="1" cellspacing="0" cellpadding="16" style="width:150; table-layout:fixed;">
 <tr>
-<th style="width:33%; text-align:center;">------------ Outbound ------------</th>
-<th style="width:33%; text-align:center;">------------ Local ------------</th>
-<th style="width:33%; text-align:center;">------------ Network ------------</th>
+<th style="width:50%; text-align:center;">------------ Outbound ------------</th>
+<th style="width:50%; text-align:center;">------------ Local ------------</th>
+<th style="width:50%; text-align:center;">------------ Network ------------</th>
 </tr>
 
 <tr>
-<td valign="top" style="width:33%;">
+<td valign="top" style="width:33.3%;">
 <details>
 <summary><b>--run</b></summary>
 <br />
@@ -82,7 +82,7 @@ So this version:
 </details>
 </td>
 
-<td valign="top" style="width:33%;">
+<td valign="top" style="width:33.3%;">
 <details>
 <summary><b>--help</b></summary>
 <br />
@@ -99,7 +99,7 @@ So this version:
 </details>
 </td>
 
-<td valign="top" style="width:33%;">
+<td valign="top" style="width:33.3%;">
 <details>
 <summary><b>--connect</b></b></summary>
 <br />
@@ -114,7 +114,7 @@ So this version:
 </table>
 <table width="100%" border="1" cellspacing="0" cellpadding="16" style="width:100%; table-layout:fixed;">
 <tr>
-<th style="width:33%; text-align:center;"><details>
+<th style="width:33.3%; text-align:center;"><details>
 <summary><b>Mobile Friendly</b><i><br>(Verticle Stacked Layout)</i></summary>
 <br />
 
