@@ -31,16 +31,15 @@ So this version:
 
 <table width="150%" border="1" cellspacing="0" cellpadding="16" style="width:150; table-layout:fixed;">
 <tr>
-<th style="width:50%; text-align:center;">------------ Outbound ------------</th>
-<th style="width:50%; text-align:center;">------------ Local ------------</th>
-<th style="width:50%; text-align:center;">------------ Network ------------</th>
+<th style="width:50%; text-align:center;">----------------- Outbound ------------------</th>
+<th style="width:50%; text-align:center;">------------------- Local -------------------</th>
+<th style="width:50%; text-align:center;">------------------ Network ------------------</th>
 </tr>
 
 <tr>
-<td valign="top" style="width:33.3%;">
+<td valign="top" style="width:33.3%; text-align:center;">
 <details>
 <summary><b>--run</b></summary>
-<br />
 
 <a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
 <a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a>
@@ -72,39 +71,27 @@ So this version:
 <a href="https://suno.com/"><img width="50" height="50" alt="suno" src="https://github.com/user-attachments/assets/39a86db9-9f74-45e7-8fd7-1ee4f798a1ca" /></a>
 <a href="https://www.udio.com/"><img width="50" height="50" alt="udio-color" src="https://github.com/user-attachments/assets/2be6963e-e87c-4069-8f75-a62c57087f6f" /></a>
 <a href="https://yuanbao.tencent.com/"><img width="50" height="50" alt="yuanbao-color" src="https://github.com/user-attachments/assets/aaae69ee-6637-47b9-9628-3002a2deae59" /></a><br>
-</p>
 
-<!-- --run PLACEHOLDERS (copy/paste + fill in) -->
-<!-- <a href="https://EXAMPLE.com/"><img width="50" height="50" alt="example" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID" /></a> -->
-<!-- <a href="https://EXAMPLE2.com/"><img width="50" height="50" alt="example2" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID_2" /></a> -->
-
-<br />
 </details>
 </td>
 
 <td valign="top" style="width:33.3%;">
 <details>
 <summary><b>--help</b></summary>
-<br />
 
 <a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
-</p>
 
 <!-- --help PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_2.md"><img alt="Guide 2" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_2" width="160" height="40" /></a> -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_3.md"><img alt="Guide 3" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_3" width="160" height="40" /></a> -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_4.md"><img alt="Guide 4" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_4" width="160" height="40" /></a> -->
-
-<br />
 </details>
 </td>
 
 <td valign="top" style="width:33.3%;">
 <details>
 <summary><b>--connect</b></b></summary>
-<br />
 <a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a></p>
-
 <!-- COLUMN 3 PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="https://LOCAL_TOOL_OR_RESOURCE_URL"><img width="50" height="50" alt="local-tool" src="https://github.com/user-attachments/assets/YOUR_ASSET_ID" /></a> -->
 <!-- <a href="PATH_TO_LOCAL_DOC.md"><img width="160" height="40" alt="Local Doc" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID" /></a> -->
@@ -114,14 +101,11 @@ So this version:
 </table>
 <table width="100%" border="1" cellspacing="0" cellpadding="16" style="width:100%; table-layout:fixed;">
 <tr>
-<th style="width:33.3%; text-align:center;"><details>
-<summary><b>Mobile Friendly</b><i><br>(Verticle Stacked Layout)</i></summary>
-<br />
-
-<b>---------- Outbound ----------</b></p>
+<th style="width:100%; text-align:center;"><details>
+<summary><b>Mobile Friendly</b><i>(Verticle Stacked Layout)</i></summary>
+<b>---------- Outbound ----------</b>
 <details>
 <summary><b>--run</b></summary>
-<br />
 <a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
 <a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a>
 <a href="https://chatgpt.com/codex"><img width="50" height="50" alt="openai" src="https://github.com/user-attachments/assets/34d7dde5-389a-4ea6-8f74-c5bae1c0a178" /></a>
@@ -151,34 +135,18 @@ So this version:
 <a href="https://sora.com/"><img width="50" height="50" alt="sora-color" src="https://github.com/user-attachments/assets/47624302-c973-42ed-b19f-765f62a99164" /></a>
 <a href="https://suno.com/"><img width="50" height="50" alt="suno" src="https://github.com/user-attachments/assets/39a86db9-9f74-45e7-8fd7-1ee4f798a1ca" /></a>
 <a href="https://www.udio.com/"><img width="50" height="50" alt="udio-color" src="https://github.com/user-attachments/assets/2be6963e-e87c-4069-8f75-a62c57087f6f" /></a>
-<a href="https://yuanbao.tencent.com/"><img width="50" height="50" alt="yuanbao-color" src="https://github.com/user-attachments/assets/aaae69ee-6637-47b9-9628-3002a2deae59" /></a></p>
-<br />
+<a href="https://yuanbao.tencent.com/"><img width="50" height="50" alt="yuanbao-color" src="https://github.com/user-attachments/assets/aaae69ee-6637-47b9-9628-3002a2deae59" /></a>
 </details>
-
-<br />
-
-<b>---------- Local ----------</b></p>
+<b>---------- Local ----------</b>
 <details>
 <summary><b>--help</b></summary>
-<br />
-
 <a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
-</p>
-<br />
 </details>
-
-<br />
-
-<b>---------- Network ----------</b></p>
+<b>---------- Network ----------</b>
 <details>
 <summary><b>--connect</b></summary>
-<br />
-<a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a></p>
-<br />
+<a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a>
 </details></th>
-</tr>
-<br />
-
-<br />
+</tr
 </details>
 </p>
