@@ -15,12 +15,12 @@ So this version:
      HEADER / HERO SECTION
      ========================= -->
 
-  <a href="">
+  <a href="https://nathanneurotic.github.io/AI/">
     <img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" />
   </a>
 </p>
 
- <a href="https://nathanneurotic.github.io/agenticllmwar.html">
+ <a href="https://nathanneurotic.github.io/ai-coding-war-2026.html">
     <img src="https://github.com/user-attachments/assets/059280f5-53fb-478c-9556-b50f54d3d0d4" />
  </a>
 </p>
