@@ -20,6 +20,11 @@ So this version:
   </a>
 </p>
 
+ <a href="https://nathanneurotic.github.io/agenticllmwar.html">
+    <img src="https://github.com/user-attachments/assets/059280f5-53fb-478c-9556-b50f54d3d0d4" />
+ </a>
+</p>
+
   <a href="https://www.chatgpt.com/">
     <img src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
   </a>
