@@ -1,4 +1,4 @@
-<!--
+<center><!--
 IMPORTANT (THIS IS THE ACTUAL BUG IN YOUR SCREENSHOT):
 GitHub parses the CONTENT INSIDE <details> as Markdown.
 If lines inside <details> start with 4+ spaces, Markdown turns them into a CODE BLOCK.
@@ -15,15 +15,7 @@ So this version:
      HEADER / HERO SECTION
      ========================= -->
 
-  <a href="https://nathanneurotic.github.io/ai_coding_agent_landscape_2026_batch1.html">
-    <img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" />
-  </a>
-</p>
-
- <a href="https://nathanneurotic.github.io/ai_coding_agent_landscape_2026_batch1.html">
-    <img src="https://github.com/user-attachments/assets/059280f5-53fb-478c-9556-b50f54d3d0d4" />
- </a>
-</p>
+  <a href="https://www.nathanneurotic.com"><img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" /></a><a href="https://guns.lol/nathanneurotic"><img src="https://github.com/user-attachments/assets/c55ade89-0874-44c5-a2d7-8acf986c5196" /></a>
 
   <a href="https://www.chatgpt.com/">
     <img src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
@@ -46,10 +38,7 @@ So this version:
 <details>
 <summary><b>--run</b></summary>
 
-<a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
-<a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a>
-<a href="https://chatgpt.com/codex"><img width="50" height="50" alt="openai" src="https://github.com/user-attachments/assets/34d7dde5-389a-4ea6-8f74-c5bae1c0a178" /></a><br>
-<a href="https://www.deepl.com/"><img width="50" height="50" alt="deepl-color" src="https://github.com/user-attachments/assets/ab15ada7-6707-406a-b8ae-fd56a36c5a2b" /></a>
+<a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a><a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a><a href="https://chatgpt.com/codex"><img width="50" height="50" alt="openai" src="https://github.com/user-attachments/assets/34d7dde5-389a-4ea6-8f74-c5bae1c0a178" /></a><br><a href="https://www.deepl.com/"><img width="50" height="50" alt="deepl-color" src="https://github.com/user-attachments/assets/ab15ada7-6707-406a-b8ae-fd56a36c5a2b" /></a>
 <a href="https://www.deepseek.com/"><img width="50" height="50" alt="deepseek-color" src="https://github.com/user-attachments/assets/83ff4caa-a3fb-4dd0-8578-1e9b30886397" /></a>
 <a href="https://gemini.google.com/"><img width="50" height="50" alt="gemini-color" src="https://github.com/user-attachments/assets/6f094dbc-6eee-48a8-b0b8-b076dcef79c2" /></a><br>
 <a href="https://github.com/"><img width="50" height="50" alt="github" src="https://github.com/user-attachments/assets/0f03ae92-7df7-4117-a07b-2b919f057c9b" /></a>
@@ -84,8 +73,8 @@ So this version:
 <details>
 <summary><b>--help</b></summary>
 
-<a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
-
+[![AI Introduction 2026](https://img.shields.io/badge/AI%20Introduction-2026-black?style=for-the-badge&logo=openai)](https://github.com/NathanNeurotic/NathanNeurotic/blob/main/Mastering_AI_Without_Overthinking_It.md.md)
+[![AI Agent Guide 2026](https://img.shields.io/badge/AI%20Agent%20Guide-2026-black?style=for-the-badge&logo=openai)](https://nathanneurotic.github.io/ai_coding_agent_landscape_2026_batch1.html)
 <!-- --help PLACEHOLDERS (copy/paste + fill in) -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_2.md"><img alt="Guide 2" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_2" width="160" height="40" /></a> -->
 <!-- <a href="PATH_TO_YOUR_GUIDE_3.md"><img alt="Guide 3" src="https://github.com/user-attachments/assets/YOUR_BUTTON_ASSET_ID_3" width="160" height="40" /></a> -->
@@ -106,11 +95,15 @@ So this version:
 </table>
 <table width="100%" border="1" cellspacing="0" cellpadding="16" style="width:100%; table-layout:fixed;">
 <tr>
-<th style="width:100%; text-align:center;"><details>
+<th align="center" style="width:100%; text-align:center;">
+<details>
 <summary><b>Mobile Friendly</b><i>(Verticle Stacked Layout)</i></summary>
+
 <b>---------- Outbound ----------</b>
 <details>
 <summary><b>--run</b></summary>
+
+<p align="center">
 <a href="https://aistudio.google.com/"><img width="50" height="50" alt="aistudio" src="https://github.com/user-attachments/assets/165ce3bd-ebf8-4518-8270-c6207666c4a5" /></a>
 <a href="https://www.bing.com/"><img width="50" height="50" alt="bing-color" src="https://github.com/user-attachments/assets/ffce4c98-9c34-4145-8a95-49519d9b81f0" /></a>
 <a href="https://chatgpt.com/codex"><img width="50" height="50" alt="openai" src="https://github.com/user-attachments/assets/34d7dde5-389a-4ea6-8f74-c5bae1c0a178" /></a>
@@ -141,17 +134,34 @@ So this version:
 <a href="https://suno.com/"><img width="50" height="50" alt="suno" src="https://github.com/user-attachments/assets/39a86db9-9f74-45e7-8fd7-1ee4f798a1ca" /></a>
 <a href="https://www.udio.com/"><img width="50" height="50" alt="udio-color" src="https://github.com/user-attachments/assets/2be6963e-e87c-4069-8f75-a62c57087f6f" /></a>
 <a href="https://yuanbao.tencent.com/"><img width="50" height="50" alt="yuanbao-color" src="https://github.com/user-attachments/assets/aaae69ee-6637-47b9-9628-3002a2deae59" /></a>
+</p>
+
 </details>
+
 <b>---------- Local ----------</b>
 <details>
 <summary><b>--help</b></summary>
-<a href="Mastering_AI_Without_Overthinking_It.md.md"><img alt="Guide 1" src="https://github.com/user-attachments/assets/a963cb7c-686e-44c4-902d-648a201b1947" width="160" height="40" /></a>
+
+<p align="center">
+<a href="https://github.com/NathanNeurotic/NathanNeurotic/blob/main/Mastering_AI_Without_Overthinking_It.md.md"><img src="https://img.shields.io/badge/AI%20Introduction-2026-black?style=for-the-badge&logo=openai" alt="AI Introduction 2026"></a>
+     
+<a href="https://nathanneurotic.github.io/ai_coding_agent_landscape_2026_batch1.html"><img src="https://img.shields.io/badge/AI%20Agent%20Guide-2026-black?style=for-the-badge&logo=openai" alt="AI Agent Guide 2026"></a>
+</p>
+
 </details>
+
 <b>---------- Network ----------</b>
 <details>
 <summary><b>--connect</b></summary>
-<a href="https://discord.gg/KRtqWeNdfC"><img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord"></a>
-</details></th>
-</tr
-</details>
+
+<p align="center">
+<a href="https://discord.gg/KRtqWeNdfC">
+  <img src="https://img.shields.io/discord/1256458065834676244?style=flat&logo=discord&logoColor=7289DA&label=Discord&labelColor=6A0DAD&color=5865F2" alt="Discord">
+</a>
 </p>
+
+</details>
+
+</details>
+</th>
+</tr></center>
