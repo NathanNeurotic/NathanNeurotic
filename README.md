@@ -15,7 +15,7 @@ So this version:
      HEADER / HERO SECTION
      ========================= -->
 
-  <a href="https://www.nathanneurotic.com"><img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" /></a><a href="https://guns.lol/nathanneurotic"><img src="https://github.com/user-attachments/assets/c55ade89-0874-44c5-a2d7-8acf986c5196" /></a>
+  <a href="https://www.nathanneurotic.com"><img src="https://github.com/user-attachments/assets/3f427f46-f343-4a43-8108-526e7f596816" /></a>
 
   <a href="https://www.chatgpt.com/">
     <img src="https://github.com/user-attachments/assets/c4e14b07-dead-4e2d-8c1b-3771e9da7d72" />
