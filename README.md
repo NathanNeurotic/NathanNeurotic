@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/085599b1-7e18-4f7f-a4cd-16a12d1d42b4" />
+<img width="400" height="92" alt="ANTI-AI DEVELOPMENT? THIS SOFTWARE IS NOT FOR YOU!" src="https://github.com/user-attachments/assets/e99fecac-f7d4-4858-b738-ecf7c6487637" />
 <center><!--
 IMPORTANT (THIS IS THE ACTUAL BUG IN YOUR SCREENSHOT):
 GitHub parses the CONTENT INSIDE <details> as Markdown.
