@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://www.nathanneurotic.com">
-    <img
-      width="1672"
-      height="941"
-      alt="NathanNeurotic Github Banner"
-      src="https://github.com/user-attachments/assets/6db4bfc4-48a8-461a-9afe-af08e38b9800"
-    />
+<img width="1672" height="941" alt="ChatGPT Image Aug 27, 2026, 12_17_58 AM" src="https://github.com/user-attachments/assets/1e81e5e8-defb-4dae-bced-61b18a89330a" />
+
   </a>
 </p>
 
