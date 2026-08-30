@@ -1,7 +1,8 @@
 
 <p align="center">
   <a href="#">
-<img width="auto" alt="NathanNeurotic (Ripto)" src="https://github.com/user-attachments/assets/ee8a1d5b-67f1-432a-9791-098d559c8e0f" />
+<img width="1672" height="941" alt="nathanneurotic github io" src="https://github.com/user-attachments/assets/6c4bcfbd-cb10-4577-8ff8-aa3241184876" />
+
   </a>
   <a href="#">
   <img
