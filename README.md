@@ -1,25 +1,17 @@
+<p align="center">
+<a href="#"><img width="100%" alt="NathanNeurotic Ripto" src="https://github.com/user-attachments/assets/e6e0a93c-a636-44cc-9787-0feeec9b2bc1" /></a>
+</p>
 
 <p align="center">
-  <a href="#">
-    <img alt="nathanneuroticriptobanner" src="https://github.com/user-attachments/assets/e6e0a93c-a636-44cc-9787-0feeec9b2bc1" />
+<a href="#"><img width="80%" alt="ANTI-AI DEVELOPMENT? THIS SOFTWARE IS NOT FOR YOU!" src="https://github.com/user-attachments/assets/e99fecac-f7d4-4858-b738-ecf7c6487637" /></a>
+</p>
 
-<img alt="nathanneurotic github io" src="https://github.com/user-attachments/assets/6c4bcfbd-cb10-4577-8ff8-aa3241184876" />
-
-  </a>
-  <a href="#">
-  <img
-    width="400"
-    height="92"
-    alt="ANTI-AI DEVELOPMENT? THIS SOFTWARE IS NOT FOR YOU!"
-    src="https://github.com/user-attachments/assets/e99fecac-f7d4-4858-b738-ecf7c6487637"
-  />
-      </a>
-      <img alt="googlegeminiantigravitybanner (1)" src="https://github.com/user-attachments/assets/de5d997d-2e44-4992-bb58-1822ec7e3efe" />
-<img alt="githubcopilotbanner (1)" src="https://github.com/user-attachments/assets/5e7d9f0d-0c1f-478c-b60d-a3282a34cfaa" />
-<img alt="kimicodebanner (1)" src="https://github.com/user-attachments/assets/c99127ff-ece0-446c-9d28-f8e2a845ddbd" />
-<img alt="metamusesparkbanner" src="https://github.com/user-attachments/assets/9c72f69b-01b2-457b-b2e4-6cfec49db64b" />
-<img alt="chatgptcodexbanner (1)" src="https://github.com/user-attachments/assets/2988ea5a-b0c1-4873-95ea-9eddf3baa4a4" />
-<img alt="claudebanner" src="https://github.com/user-attachments/assets/abe9f34b-6e4d-4ddc-99d4-e435c9173561" />
-<img alt="coderabbitbanner" src="https://github.com/user-attachments/assets/322d8053-57da-4075-b845-47c03fa6cd8d" />
-
+<p align="center">
+<a href="https://g.co/g1referral/5HBQ6VSH" target="_blank" rel="noopener noreferrer"><img width="48%" alt="Google Antigravity - Gemini" src="https://github.com/user-attachments/assets/de5d997d-2e44-4992-bb58-1822ec7e3efe" /></a><a href="https://github.com/features/ai/github-app" target="_blank" rel="noopener noreferrer"><img width="48%" alt="GitHub Copilot" src="https://github.com/user-attachments/assets/5e7d9f0d-0c1f-478c-b60d-a3282a34cfaa" /></a>
+<br>
+<a href="https://www.kimi.ai/activities/en/invite/share?scenario=subscribe&amp;from=share_poster&amp;invitation_code=UHDDN5" target="_blank" rel="noopener noreferrer"><img width="48%" alt="Kimi" src="https://github.com/user-attachments/assets/c99127ff-ece0-446c-9d28-f8e2a845ddbd" /></a><a href="https://developer.meta.com/ai/" target="_blank" rel="noopener noreferrer"><img width="48%" alt="Meta Muse Spark" src="https://github.com/user-attachments/assets/9c72f69b-01b2-457b-b2e4-6cfec49db64b" /></a>
+<br>
+<a href="mailto:contact@nathanneurotic.com?subject=Requesting%20ChatGPT%20Referral%20Code%20from%20Github%20-%20Urgent!"><img width="48%" alt="ChatGPT App - Codex, Work, Chat AIO" src="https://github.com/user-attachments/assets/2988ea5a-b0c1-4873-95ea-9eddf3baa4a4" /></a><a href="https://claude.ai/" target="_blank" rel="noopener noreferrer"><img width="48%" alt="Claude" src="https://github.com/user-attachments/assets/abe9f34b-6e4d-4ddc-99d4-e435c9173561" /></a>
+<br>
+<a href="https://coderabbit.link/nathan-neurotic-ripto" target="_blank" rel="noopener noreferrer"><img width="48%" alt="CodeRabbit Referral" src="https://github.com/user-attachments/assets/322d8053-57da-4075-b845-47c03fa6cd8d" /></a><a href="https://docs.x.ai/developers/models/grok-4.7" target="_blank" rel="noopener noreferrer"><img width="48%" alt="Grok 4.7 - xAI" src="https://github.com/user-attachments/assets/47029d8a-7dcc-4e38-b0c1-24451d545643" /></a>
 </p>
