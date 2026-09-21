@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="100%" alt="NathanNeurotic Ripto" src="https://github.com/user-attachments/assets/e6e0a93c-a636-44cc-9787-0feeec9b2bc1" /></a>
+<a href="#"><img width="100%" alt="NathanNeurotic Ripto" src="https://github.com/user-attachments/assets/37cc34c6-3eb8-4950-9e57-987dd0217708" /></a>
 </p>
 
 <p align="center">
