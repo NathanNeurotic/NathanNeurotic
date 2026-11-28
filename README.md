@@ -1,9 +1,25 @@
-<p align="center"><a href="https://discord.com/users/640897985382973440" target=_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/discord/1256458065834676244?style=plastic&logo=discord&logoColor=white&labelColor=7289DA&color=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F640897985382973440&link=https%3A%2F%2Fdiscord.com%2Fusers%2F640897985382973440"></a>
-<a href="https://nathanneurotic.com" target="_blank" rel="noopener noreferrer"><img width="90%" alt="NathanNeurotic Ripto" src="https://github.com/user-attachments/assets/d3d8debd-2165-499b-8aa0-d5e51b12a218" /></a>
-<br>
-<a href="mailto:contact@nathanneurotic.com?subject=Requesting%20ChatGPT%20Referral%20Code%20from%20Github%20-%20Urgent!"><img width="44%" alt="ChatGPT App - Codex, Work, Chat AIO" src="https://github.com/user-attachments/assets/2988ea5a-b0c1-4873-95ea-9eddf3baa4a4" /></a><a href="https://claude.ai/" target="_blank" rel="noopener noreferrer"><img width="44%" alt="Claude" src="https://github.com/user-attachments/assets/abe9f34b-6e4d-4ddc-99d4-e435c9173561" /></a><a href="https://coderabbit.link/nathan-neurotic-ripto" target="_blank" rel="noopener noreferrer"><img width="44%" alt="CodeRabbit Referral" src="https://github.com/user-attachments/assets/322d8053-57da-4075-b845-47c03fa6cd8d" /></a><a href="https://g.co/g1referral/5HBQ6VSH" target="_blank" rel="noopener noreferrer"><img width="44%" alt="Google Antigravity - Gemini" src="https://github.com/user-attachments/assets/de5d997d-2e44-4992-bb58-1822ec7e3efe" /></a><a href="https://www.kimi.ai/activities/en/invite/share?scenario=subscribe&amp;from=share_poster&amp;invitation_code=UHDDN5" target="_blank" rel="noopener noreferrer"><img width="44%" alt="Kimi" src="https://github.com/user-attachments/assets/c99127ff-ece0-446c-9d28-f8e2a845ddbd" /></a><a href="https://suno.com/invite/@nathanneurotic" target="_blank" rel="noopener noreferrer"><img width="44%" alt="Suno" src="https://github.com/user-attachments/assets/8824b47a-4fa4-4831-bea9-f75f01198f2e" /></a><br><a href="https://suno.com/@nathanneurotic" target="_blank" rel="noopener noreferrer"><img width="90%" alt="nnlivebanner" src="https://github.com/user-attachments/assets/6a70d73e-c706-4971-a64f-bfab40ef9c0b" /></a>
+<a href="https://nathanneurotic.com"><img src="assets/header.svg" width="100%" alt="NathanNeurotic — Ripto. Code · Design · Sound · Repair."></a>
+
+<p align="center">
+  I build PS2 homebrew tooling, UI and themes, make noise on the side, and fix hardware for fun.
 </p>
-<!-- theme-creator-banner:start -->
-<p align="center"><a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html"><img alt="Make your own RiptOPL theme. Drag things around on a live PS2 preview, drop in your own art and fonts, then download a ready-to-play thm_&lt;Name&gt;.tar. Free, in your browser. Start creating." src="https://nathanneurotic.github.io/RiptOPL/assets/theme-creator-ad.jpg" width="100%" /></a></p>
-<p align="center"><b><a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html">Open the Theme Creator</a></b> · <a href="https://nathanneurotic.github.io/RiptOPL-Themes/">Browse community themes</a></p>
-<!-- theme-creator-banner:end -->
+
+<p align="center">
+  <a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html"><img alt="Make a RiptOPL theme" src="https://img.shields.io/badge/RiptOPL-Make_a_theme_%E2%86%92-8b5cf6?style=for-the-badge&labelColor=0b0a12"></a>
+  <a href="https://discord.com/users/640897985382973440"><img alt="Discord" src="https://img.shields.io/discord/1256458065834676244?style=for-the-badge&logo=discord&logoColor=white&label=online&labelColor=0b0a12&color=5865F2"></a>
+  <a href="https://suno.com/@nathanneurotic"><img alt="Listen on Suno" src="https://img.shields.io/badge/Suno-Listen-facc15?style=for-the-badge&labelColor=0b0a12"></a>
+</p>
+
+<p align="center"><sub>
+  <a href="https://nathanneurotic.github.io/RiptOPL-Themes/">community themes</a> ·
+  <a href="https://nathanneurotic.com">site</a> ·
+  <a href="mailto:contact@nathanneurotic.com">email</a>
+  <br><br>
+  perks ↴&nbsp;
+  <a href="mailto:contact@nathanneurotic.com?subject=Requesting%20ChatGPT%20Referral%20Code%20from%20Github">ChatGPT</a> ·
+  <a href="https://claude.ai/">Claude</a> ·
+  <a href="https://coderabbit.link/nathan-neurotic-ripto">CodeRabbit</a> ·
+  <a href="https://g.co/g1referral/5HBQ6VSH">Antigravity</a> ·
+  <a href="https://www.kimi.ai/activities/en/invite/share?scenario=subscribe&amp;from=share_poster&amp;invitation_code=UHDDN5">Kimi</a> ·
+  <a href="https://suno.com/invite/@nathanneurotic">Suno</a>
+</sub></p>
