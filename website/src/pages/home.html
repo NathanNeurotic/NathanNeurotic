@@ -1,0 +1,102 @@
+<!-- {"title": "NathanNeurotic: PlayStation 2 homebrew by Nathan (Ripto)", "description": "Nathan, also known as Ripto, works on open-source PlayStation 2 homebrew: RiptOPL, Launchstation, POPSLoader, PS2-Servers and more.", "path": "/", "nav": "home"} -->
+<section class="intro" aria-labelledby="intro-title">
+  <div>
+    <h1 id="intro-title">Hi, I'm Nathan.</h1>
+    <p class="lede">Also known as Ripto. I work on PlayStation&nbsp;2 homebrew: a game loader, a dashboard, a PS1 game launcher, servers for loading games over your home network, and the guides that go with them. It's all open source.</p>
+  </div>
+  <figure class="intro-photo">
+    <img class="portrait" src="/img/nathan-and-cat.webp" width="760" height="1220" alt="Nathan in a black beanie and fleece, with a tabby cat on his shoulder">
+  </figure>
+</section>
+
+<section aria-labelledby="projects-title">
+  <div class="section-head">
+    <h2 id="projects-title">Projects</h2>
+    <a href="/work/">Details, credits and smaller projects</a>
+  </div>
+
+  <article class="project">
+    <figure class="shot">
+      <img src="/img/shots/riptopl-coverflow-five.webp" width="796" height="448" alt="RiptOPL's Coverflow view: five PS2 game covers in a row on a blue background, with ICO selected">
+      <figcaption>Coverflow view, captured from RiptOPL</figcaption>
+    </figure>
+    <div>
+      <h3><a href="/work/#riptopl">RiptOPL</a></h3>
+      <p class="kind">PS2 game loader &middot; fork of Open PS2 Loader</p>
+      <p>My fork of Open PS2 Loader. It adds a PSBBN-style theme with List, Grid, Coverflow and PSBBN Flow views, a Favorites tab, per-game Neutrino launching, a reorganized settings layout and DualSense support.</p>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/RiptOPL">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/RiptOPL/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/RiptOPL/releases/tag/rolling">Download</a></li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="project">
+    <figure class="shot">
+      <img src="/img/shots/ls-theme-osd.webp" width="640" height="480" alt="Launchstation's home screen in the OSD Classic theme, showing a row of application icons and a clock">
+      <figcaption>Home screen, OSD Classic theme (build 974)</figcaption>
+    </figure>
+    <div>
+      <h3><a href="/work/#launchstation">Launchstation</a></h3>
+      <p class="kind">PS2 dashboard and file manager &middot; based on wLaunchELF_R3Z</p>
+      <p>A dashboard, file manager and homebrew launcher. Browse devices, launch apps and game images, manage saves and memory card images, and back up MMCE cards locally or to Google Drive. It has 18 built-in themes.</p>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/Launchstation">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/Launchstation/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/Launchstation/releases/tag/latest">Download</a></li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="project">
+    <figure class="shot">
+      <img src="/img/shots/popsl-settings-devices.webp" width="640" height="480" alt="POPSLoader's settings screen listing storage devices: MMCE, MX4SIO, USB, i.Link, SMB, disc and internal HDD">
+      <figcaption>Settings: which storage devices to show (version 1.4.2)</figcaption>
+    </figure>
+    <div>
+      <h3><a href="/work/#popsloader">POPSLoader</a></h3>
+      <p class="kind">PS1 game launcher for the PS2 &middot; started by israpps</p>
+      <p>Browse and launch PS1 games on a PS2, using POPStarter and Sony's POPS, or the experimental Ember emulator core. israpps started the project; I work on the interface and put out the releases.</p>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/POPSLoader">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/POPSLoader/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/POPSLoader/releases">Download</a></li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="project">
+    <div class="table-scroll">
+      <table>
+        <caption class="muted small" style="caption-side: bottom; text-align: left; padding-top: 0.5rem;">Server modes and default ports</caption>
+        <thead><tr><th scope="col">Mode</th><th scope="col">Port</th><th scope="col">For</th></tr></thead>
+        <tbody>
+          <tr><td>UDPFS</td><td class="mono">UDP 62966</td><td>NHDDL/Neutrino, RiptOPL</td></tr>
+          <tr><td>SMBv1</td><td class="mono">TCP 1025</td><td>OPL and other SMBv1 clients</td></tr>
+          <tr><td>SMBv2/3</td><td class="mono">TCP 1445</td><td>Clients that support them</td></tr>
+          <tr><td>NFS</td><td class="mono">TCP 2049</td><td>RiptOPL, Neutrino, Launchstation</td></tr>
+          <tr><td>UDPBD</td><td class="mono">UDP 48573</td><td>Block-device clients</td></tr>
+          <tr><td>HTTP</td><td class="mono">TCP 1100</td><td>OPL HTTP clients (experimental)</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3><a href="/work/#ps2-servers">PS2-Servers</a></h3>
+      <p class="kind">LAN game and file servers &middot; Python and Go</p>
+      <p>Runs the servers a network-capable PS2 needs to load games and files from your computer. There's a desktop app, a terminal version, and an Edge build in Go for routers, NAS boxes and Raspberry Pis. Made with FatBaldDad's PS2-EtherDrive.</p>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/PS2-Servers">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/PS2-Servers/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/PS2-Servers/releases">Download</a></li>
+      </ul>
+    </div>
+  </article>
+
+  <p style="margin-top: 1.5rem;">Also: <a href="/work/#launcher">launcHER</a>, <a href="/work/#sms">Simple Media System</a>, <a href="/work/#r4d">R4D docs</a> and the <a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html">RiptOPL Theme Creator</a>.</p>
+</section>
+
+<section aria-labelledby="other-title">
+  <h2 id="other-title">Art and music</h2>
+  <p class="prose">I also make pictures and songs with AI tools, mostly for my projects and the Neuralotics group. They have their own pages, labeled as AI-made: <a href="/visual/">art</a> and <a href="/sound/">music</a>.</p>
+</section>

@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Projects: NathanNeurotic</title>
+<meta name="description" content="RiptOPL, Launchstation, POPSLoader, PS2-Servers, launcHER, Simple Media System and R4D docs: open-source PlayStation 2 homebrew by Nathan (Ripto).">
+<link rel="canonical" href="https://nathanneurotic.com/work/">
+<meta property="og:title" content="Projects: NathanNeurotic">
+<meta property="og:description" content="RiptOPL, Launchstation, POPSLoader, PS2-Servers, launcHER, Simple Media System and R4D docs: open-source PlayStation 2 homebrew by Nathan (Ripto).">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://nathanneurotic.com/work/">
+<meta property="og:image" content="https://nathanneurotic.com/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131116" media="(prefers-color-scheme: dark)">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/style.css?v=1">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+<div class="wrap">
+<a class="site-name" href="/">NathanNeurotic</a>
+<nav class="site-nav" aria-label="Main"><a href="/work/" aria-current="page">Projects</a><a href="/visual/">Art</a><a href="/sound/">Music</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav>
+</div>
+</header>
+<main id="main">
+<div class="wrap">
+<h1>Projects</h1>
+<p class="lede">Everything here is open source. The PS2 apps need a console that can already run homebrew. None of them install an exploit for you.</p>
+
+<article class="detail" id="riptopl">
+  <h2>RiptOPL</h2>
+  <div class="detail-grid">
+    <div>
+      <p>RiptOPL is my downstream fork of <a href="https://github.com/ps2homebrew/Open-PS2-Loader">Open PS2 Loader</a>. What it adds:</p>
+      <ul>
+        <li>A built-in PSBBN-style theme with List, Grid, Coverflow and PSBBN Flow views. Hold L3 to switch.</li>
+        <li>A Favorites tab.</li>
+        <li>Per-game launching through the Neutrino core.</li>
+        <li>A reorganized, category-based settings layout, stored in its own <code>settings_riptopl.cfg</code> so it doesn't clash with official OPL or wOPL.</li>
+        <li>DualSense support.</li>
+      </ul>
+      <p>The main line is now C++ on the ps2build SDK. The original C codebase is still kept as the <a href="https://github.com/NathanNeurotic/Open-PS2-Loader">legacy edition</a>.</p>
+      <p class="credit">Based on Open PS2 Loader by Ifcaro and jimmikaelkael, under the Academic Free License 3.0. Pull requests have come from techwritescode, belomaxorka, Ronnie Sahlberg, MrRexD, darkladark and others. The <a href="https://github.com/NathanNeurotic/RiptOPL#acknowledgements">README</a> credits every upstream author.</p>
+    </div>
+    <div>
+      <dl class="facts">
+        <dt>Storage</dt><dd>USB, MX4SIO, i.LINK, MMCE, HDD</dd>
+        <dt>Network</dt><dd>SMB, NFS, UDPBD, UDPFS, HTTP</dd>
+        <dt>PS1 games</dt><dd>POPStarter, Ember</dd>
+        <dt>Builds</dt><dd><code>rolling</code>, <code>rolling-ra</code> (RetroAchievements, untested), <code>rolling-lite</code></dd>
+        <dt>Languages</dt><dd>31 translations</dd>
+      </dl>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/RiptOPL">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/RiptOPL/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/RiptOPL/releases/tag/rolling">Download</a></li>
+        <li><a href="https://nathanneurotic.github.io/Open-PS2-Loader/fork-gaps.html">How it compares to other forks</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="shots two">
+    <figure class="shot"><img src="/img/shots/riptopl-list.webp" width="796" height="448" loading="lazy" alt="RiptOPL list view: game titles on the left, the selected game's cover on the right"><figcaption>List view</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/riptopl-grid.webp" width="796" height="448" loading="lazy" alt="RiptOPL grid view of game covers"><figcaption>Grid view</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/riptopl-psbbn-flow.webp" width="796" height="448" loading="lazy" alt="RiptOPL PSBBN Flow view: covers fanned out in perspective"><figcaption>PSBBN Flow view</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/riptopl-info-okami.webp" width="796" height="448" loading="lazy" alt="RiptOPL game information screen for Okami with a description, format tags and two screenshots"><figcaption>Game info screen</figcaption></figure>
+  </div>
+  <p class="small muted">Captures from the RiptOPL docs. Game covers belong to their publishers. You can also <a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html">make your own theme</a> or <a href="https://nathanneurotic.github.io/RiptOPL-Themes/">browse community themes</a>.</p>
+</article>
+
+<article class="detail" id="launchstation">
+  <h2>Launchstation</h2>
+  <div class="detail-grid">
+    <div>
+      <p>A PS2 dashboard, file manager and homebrew launcher, based on <a href="https://github.com/saildot4k/wLaunchELF_R3Z">wLaunchELF_R3Z</a>. You can browse devices, launch applications and game images, manage saves and memory card images, and back up MMCE cards locally or to Google Drive, all from the controller.</p>
+      <p>It has 18 built-in theme presets. They're compiled in, so there are no theme files to install.</p>
+      <p class="credit">Other people have forked it, and I review fixes from forks and credit them when they're merged. Official builds are only on the <a href="https://github.com/NathanNeurotic/Launchstation/releases">Releases page</a>.</p>
+    </div>
+    <div>
+      <dl class="facts">
+        <dt>Storage</dt><dd>USB, MMCE, MX4SIO, ATA, i.LINK</dd>
+        <dt>Network</dt><dd>SMB, NFS, UDPFS, FTP, PS2Link</dd>
+        <dt>Launches</dt><dd>Apps, Neutrino, POPStarter, Ember</dd>
+        <dt>Downloads</dt><dd>Standard, DS34 (adds PS3/PS4 controllers), Full Kit</dd>
+        <dt>Languages</dt><dd>9</dd>
+      </dl>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/Launchstation">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/Launchstation/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/Launchstation/releases/tag/latest">Download</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="shots">
+    <figure class="shot"><img src="/img/shots/ls-theme-towers.webp" width="640" height="480" loading="lazy" alt="Launchstation home screen with the PS2 Towers theme background"><figcaption>PS2 Towers theme</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/ls-apps-grid.webp" width="640" height="480" loading="lazy" alt="Launchstation Applications screen in grid layout"><figcaption>Applications, grid layout</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/ls-files-devices.webp" width="640" height="480" loading="lazy" alt="Launchstation file browser listing storage devices"><figcaption>File browser, device list</figcaption></figure>
+  </div>
+  <p class="small muted">Captured from release build 974 in the RIPPCSX2 emulator. The apps shown are placeholder files.</p>
+</article>
+
+<article class="detail" id="popsloader">
+  <h2>POPSLoader</h2>
+  <div class="detail-grid">
+    <div>
+      <p>A browser and launcher for PS1 games on a PS2. It supports the original POPStarter and Sony POPS setup with VCD images, and <a href="https://github.com/Gageformer/Ember">Gageformer's Ember</a> core as a separate, experimental emulator. You browse by storage device, launch games, and manage settings and artwork.</p>
+      <p>The project was started by <a href="https://github.com/israpps">israpps</a> (El_isra). I work on the interface and put out the releases.</p>
+      <p class="credit">POPStarter is by krHACKen. Passing automated builds doesn't prove a game or device works on real hardware, so the repo keeps a <a href="https://github.com/NathanNeurotic/POPSLoader/blob/master/STATE.md">hardware status page</a>.</p>
+    </div>
+    <div>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/POPSLoader">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/POPSLoader/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/POPSLoader/releases">Download</a></li>
+        <li><a href="https://github.com/NathanNeurotic/POPSLoader/wiki">Wiki</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="shots two">
+    <figure class="shot"><img src="/img/shots/popsl-game-list.webp" width="640" height="480" loading="lazy" alt="POPSLoader game list with placeholder titles"><figcaption>Game list (placeholder titles)</figcaption></figure>
+    <figure class="shot"><img src="/img/shots/popsl-device-carousel.webp" width="640" height="480" loading="lazy" alt="POPSLoader device picker showing a USB drive"><figcaption>Device picker</figcaption></figure>
+  </div>
+</article>
+
+<article class="detail" id="ps2-servers">
+  <h2>PS2-Servers</h2>
+  <div class="detail-grid">
+    <div>
+      <p>Runs game and file servers for network-capable PS2 homebrew, so the console can load from your computer over the LAN. It comes in three editions:</p>
+      <ul>
+        <li><strong>Desktop</strong>: a launcher app, with a searchable game library, art conversion and a setup guide.</li>
+        <li><strong>Core</strong>: the same Python servers, run from a terminal.</li>
+        <li><strong>Edge</strong>: a separate Go server for routers, NAS boxes, Raspberry Pis and headless machines.</li>
+      </ul>
+      <p>Pick the mode your loader supports. Running a server doesn't add that protocol to a PS2 app that doesn't have it.</p>
+      <p class="credit">Made in collaboration with FatBaldDad's <a href="https://github.com/FatBaldDad/PS2-EtherDrive">PS2-EtherDrive</a>.</p>
+    </div>
+    <div>
+      <div class="table-scroll">
+        <table>
+          <thead><tr><th scope="col">Mode</th><th scope="col">Default port</th></tr></thead>
+          <tbody>
+            <tr><td>UDPFS</td><td class="mono">UDP 62966</td></tr>
+            <tr><td>SMBv1</td><td class="mono">TCP 1025 (Desktop), 1111 (Core)</td></tr>
+            <tr><td>SMBv2 / v3</td><td class="mono">TCP 1445</td></tr>
+            <tr><td>HTTP (experimental)</td><td class="mono">TCP 1100</td></tr>
+            <tr><td>NFS (experimental)</td><td class="mono">TCP 2049</td></tr>
+            <tr><td>UDPBD</td><td class="mono">UDP 48573</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <ul class="links">
+        <li><a href="https://github.com/NathanNeurotic/PS2-Servers">Source</a></li>
+        <li><a href="https://nathanneurotic.github.io/PS2-Servers/">Docs</a></li>
+        <li><a href="https://github.com/NathanNeurotic/PS2-Servers/releases">Download</a></li>
+      </ul>
+    </div>
+  </div>
+</article>
+
+<section aria-labelledby="smaller-title" style="margin-top: 2.5rem;">
+  <h2 id="smaller-title">Smaller projects</h2>
+  <ul class="small-projects">
+    <li id="launcher">
+      <h3>launcHER</h3>
+      <p>A small forwarder that finds Ember wherever you keep it, prepares that storage device, hands Ember the game to launch, and then gets out of the way. Derived from the standalone launcher in pcm720's <a href="https://github.com/pcm720/OSDMenu">OSDMenu</a>.</p>
+      <ul class="links"><li><a href="https://github.com/NathanNeurotic/launcHER">Source</a></li><li><a href="https://github.com/NathanNeurotic/launcHER/releases">Download</a></li></ul>
+    </li>
+    <li id="sms">
+      <h3>Simple Media System</h3>
+      <p>A maintained fork of Eugene Plotnikov's SMS media player: video, music, pictures, subtitles and playlists. It adds MX4SIO, exFAT HDD, i.LINK, MMCE and UDPFS support, DS3/DS4 controllers, and a desktop media converter.</p>
+      <ul class="links"><li><a href="https://github.com/NathanNeurotic/Simple-Media-System">Source</a></li><li><a href="https://github.com/NathanNeurotic/Simple-Media-System/releases">Download</a></li></ul>
+    </li>
+    <li id="r4d">
+      <h3>R4D docs</h3>
+      <p>"Recovery for Dummies": setup, recovery and troubleshooting guides for PS2 consoles. Still a work in progress.</p>
+      <ul class="links"><li><a href="https://nathanneurotic.github.io/R4D-DOCS/">Read the docs</a></li><li><a href="https://github.com/NathanNeurotic/R4D-DOCS">Source</a></li></ul>
+    </li>
+    <li>
+      <h3>RiptOPL Theme Creator</h3>
+      <p>Make a RiptOPL theme in your browser: move things around on a live PS2-style preview, add your own art and fonts, and download a ready-to-use <code>thm_&lt;Name&gt;.tar</code>.</p>
+      <ul class="links"><li><a href="https://nathanneurotic.github.io/RiptOPL/theme-creator.html">Open the Theme Creator</a></li><li><a href="https://nathanneurotic.github.io/RiptOPL-Themes/">Community themes</a></li></ul>
+    </li>
+  </ul>
+  <p style="margin-top: 1.5rem;">The rest is on <a href="https://github.com/NathanNeurotic?tab=repositories">GitHub</a>. If you find a bug, please open an issue on the project's repo.</p>
+</section>
+</div>
+</main>
+<footer class="site-footer">
+<div class="wrap">
+<p>Nathan / Ripto &middot; <a href="mailto:contact@nathanneurotic.com">contact@nathanneurotic.com</a></p>
+<ul>
+<li><a href="https://github.com/NathanNeurotic">GitHub</a></li>
+<li><a href="https://tinyurl.com/NEURALOTICS">Discord</a></li>
+<li><a href="https://t.me/NEURALOTICS">Telegram</a></li>
+<li><a href="https://www.psx-place.com/members/ripto.201268/">PSX-Place</a></li>
+<li><a href="https://github.com/sponsors/NathanNeurotic">Sponsor</a></li>
+</ul>
+</div>
+</footer>
+</body>
+</html>
