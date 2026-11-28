@@ -17,20 +17,20 @@
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/style.css?v=1">
+<link rel="stylesheet" href="/style.css?v=2">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header">
 <div class="wrap">
 <a class="site-name" href="/">NathanNeurotic</a>
-<nav class="site-nav" aria-label="Main"><a href="/work/" aria-current="page">Projects</a><a href="/visual/">Art</a><a href="/sound/">Music</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav>
+<nav class="site-nav" aria-label="Main"><a href="/work/" aria-current="page">Projects</a><a href="/side-quests/">Side quests</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav>
 </div>
 </header>
 <main id="main">
 <div class="wrap">
 <h1>Projects</h1>
-<p class="lede">Everything here is open source. The PS2 apps need a console that can already run homebrew. None of them install an exploit for you.</p>
+<p class="lede">Everything here is free and open source. The PS2 apps need a console that can already run homebrew; none of them install an exploit for you.</p>
 
 <article class="detail" id="riptopl">
   <h2>RiptOPL</h2>
@@ -41,11 +41,11 @@
         <li>A built-in PSBBN-style theme with List, Grid, Coverflow and PSBBN Flow views. Hold L3 to switch.</li>
         <li>A Favorites tab.</li>
         <li>Per-game launching through the Neutrino core.</li>
-        <li>A reorganized, category-based settings layout, stored in its own <code>settings_riptopl.cfg</code> so it doesn't clash with official OPL or wOPL.</li>
-        <li>DualSense support.</li>
+        <li>A reorganized settings layout, grouped by category. Its main settings live in their own <code>settings_riptopl.cfg</code>, so they don't clash with official OPL or wOPL.</li>
+        <li>Optional DualSense support, as a separate build.</li>
       </ul>
-      <p>The main line is now C++ on the ps2build SDK. The original C codebase is still kept as the <a href="https://github.com/NathanNeurotic/Open-PS2-Loader">legacy edition</a>.</p>
-      <p class="credit">Based on Open PS2 Loader by Ifcaro and jimmikaelkael, under the Academic Free License 3.0. Pull requests have come from techwritescode, belomaxorka, Ronnie Sahlberg, MrRexD, darkladark and others. The <a href="https://github.com/NathanNeurotic/RiptOPL#acknowledgements">README</a> credits every upstream author.</p>
+      <p>The main line is now C++ on the ps2build SDK, built together with techwritescode. The original C codebase lives on as the <a href="https://github.com/NathanNeurotic/Open-PS2-Loader">legacy edition</a>.</p>
+      <p class="credit">Developed in partnership with akilluminati47's <a href="https://gitlab.com/akilluminati247/RIPPS2">RIPPS2</a> project. Based on Open PS2 Loader by Ifcaro and jimmikaelkael, under the Academic Free License 3.0. Pull requests have come from techwritescode, belomaxorka, Ronnie Sahlberg, MrRexD, darkladark and others. The <a href="https://github.com/NathanNeurotic/RiptOPL#acknowledgements">README</a> credits every upstream author.</p>
     </div>
     <div>
       <dl class="facts">
@@ -77,8 +77,8 @@
   <div class="detail-grid">
     <div>
       <p>A PS2 dashboard, file manager and homebrew launcher, based on <a href="https://github.com/saildot4k/wLaunchELF_R3Z">wLaunchELF_R3Z</a>. You can browse devices, launch applications and game images, manage saves and memory card images, and back up MMCE cards locally or to Google Drive, all from the controller.</p>
-      <p>It has 18 built-in theme presets. They're compiled in, so there are no theme files to install.</p>
-      <p class="credit">Other people have forked it, and I review fixes from forks and credit them when they're merged. Official builds are only on the <a href="https://github.com/NathanNeurotic/Launchstation/releases">Releases page</a>.</p>
+      <p>It comes with 18 built-in themes. They're compiled in, so there are no theme files to install.</p>
+      <p class="credit">johnson-cooper created this fork and handed it over to me; I maintain it now. Fixes from community forks get reviewed and credited when they're merged. Official builds are only on the <a href="https://github.com/NathanNeurotic/Launchstation/releases">Releases page</a>.</p>
     </div>
     <div>
       <dl class="facts">
@@ -109,7 +109,7 @@
     <div>
       <p>A browser and launcher for PS1 games on a PS2. It supports the original POPStarter and Sony POPS setup with VCD images, and <a href="https://github.com/Gageformer/Ember">Gageformer's Ember</a> core as a separate, experimental emulator. You browse by storage device, launch games, and manage settings and artwork.</p>
       <p>The project was started by <a href="https://github.com/israpps">israpps</a> (El_isra). I work on the interface and put out the releases.</p>
-      <p class="credit">POPStarter is by krHACKen. Passing automated builds doesn't prove a game or device works on real hardware, so the repo keeps a <a href="https://github.com/NathanNeurotic/POPSLoader/blob/master/STATE.md">hardware status page</a>.</p>
+      <p class="credit">POPStarter is by krHACKen. A passing build doesn't prove a game works on a real console, so the repo keeps a <a href="https://github.com/NathanNeurotic/POPSLoader/blob/master/STATE.md">hardware status page</a>.</p>
     </div>
     <div>
       <ul class="links">
@@ -130,14 +130,14 @@
   <h2>PS2-Servers</h2>
   <div class="detail-grid">
     <div>
-      <p>Runs game and file servers for network-capable PS2 homebrew, so the console can load from your computer over the LAN. It comes in three editions:</p>
+      <p>The PC side of playing PS2 games over your home network. It runs the servers that network-capable PS2 homebrew connects to, on Windows, Linux or macOS. It comes in three editions:</p>
       <ul>
-        <li><strong>Desktop</strong>: a launcher app, with a searchable game library, art conversion and a setup guide.</li>
+        <li><strong>Desktop</strong>: an app with a tab for each server, a searchable game library and cover art conversion.</li>
         <li><strong>Core</strong>: the same Python servers, run from a terminal.</li>
-        <li><strong>Edge</strong>: a separate Go server for routers, NAS boxes, Raspberry Pis and headless machines.</li>
+        <li><strong>Edge</strong>: a separate Go server for routers, NAS boxes, Raspberry Pis and other headless machines.</li>
       </ul>
-      <p>Pick the mode your loader supports. Running a server doesn't add that protocol to a PS2 app that doesn't have it.</p>
-      <p class="credit">Made in collaboration with FatBaldDad's <a href="https://github.com/FatBaldDad/PS2-EtherDrive">PS2-EtherDrive</a>.</p>
+      <p>Use the mode your PS2 app supports. Running a server doesn't teach an app a protocol it doesn't already speak.</p>
+      <p class="credit">FatBaldDad's <a href="https://github.com/FatBaldDad/PS2-EtherDrive">PS2-EtherDrive</a> hardware project plans to use it.</p>
     </div>
     <div>
       <div class="table-scroll">
@@ -160,6 +160,10 @@
       </ul>
     </div>
   </div>
+  <figure class="shot wide">
+    <img src="/img/shots/ps2servers-desktop.webp" width="1363" height="760" loading="lazy" alt="The PS2-Servers desktop app: a LAN IP picker, a row of server tabs (SMBv1, SMBv2, SMBv3, UDPFS, HTTP, NFS, UDPBD) and the SMBv1 settings">
+    <figcaption>Desktop app 0.9.7, freshly installed, on the SMBv1 tab</figcaption>
+  </figure>
 </article>
 
 <section aria-labelledby="smaller-title" style="margin-top: 2.5rem;">

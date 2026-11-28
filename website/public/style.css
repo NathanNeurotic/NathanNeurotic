@@ -124,6 +124,9 @@ section + section { margin-top: 3rem; }
 
 /* screenshots */
 .shot { margin: 0; }
+.shot.wide { margin-top: 1.75rem; max-width: 52rem; }
+.jump { display: flex; flex-wrap: wrap; gap: 0.3rem 1.25rem; padding: 0; list-style: none; margin: 0 0 1rem; }
+.jump li + li { margin-top: 0; }
 .shot img { width: 100%; background: var(--frame); border: 1px solid var(--rule); border-radius: 3px; }
 .shot figcaption, figure figcaption { font-family: var(--mono); font-size: 0.78rem; line-height: 1.45; color: var(--muted); margin-top: 0.5rem; }
 

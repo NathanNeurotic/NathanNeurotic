@@ -8,12 +8,11 @@ import { fileURLToPath } from "node:url";
 
 const root = dirname(fileURLToPath(import.meta.url));
 const SITE = "https://nathanneurotic.com";
-const CSS_VERSION = "1";
+const CSS_VERSION = "2";
 
 const nav = [
   ["work", "/work/", "Projects"],
-  ["visual", "/visual/", "Art"],
-  ["sound", "/sound/", "Music"],
+  ["quests", "/side-quests/", "Side quests"],
   ["about", "/about/", "About"],
   ["contact", "/contact/", "Contact"],
 ];
