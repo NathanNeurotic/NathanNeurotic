@@ -1,0 +1,19 @@
+// Cloudflare Workers config for nathanneurotic.com (static assets only, no server code).
+// The name must match the existing Worker so a deploy replaces the site in place.
+// routes / workers_dev / preview_urls mirror the September config so a deploy
+// keeps both custom domains attached and doesn't change the Worker's triggers.
+{
+  "name": "nathanneurotic",
+  "compatibility_date": "2026-09-24",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "nathanneurotic.com", "custom_domain": true },
+    { "pattern": "www.nathanneurotic.com", "custom_domain": true }
+  ],
+  "workers_dev": true,
+  "preview_urls": false
+}
