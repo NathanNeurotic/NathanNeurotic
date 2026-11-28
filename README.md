@@ -1,4 +1,6 @@
-<a href="https://nathanneurotic.com"><img src="assets/header.svg" width="100%" alt="NathanNeurotic — Ripto. Code · Design · Sound · Repair."></a>
+<p align="center">
+  <a href="https://nathanneurotic.com"><img src="assets/header.svg" width="100%" alt="NathanNeurotic — Ripto. Code · Design · Sound · Repair."></a>
+</p>
 
 <p align="center">
   I build PS2 homebrew tooling, UI and themes, make noise on the side, and fix hardware for fun.
