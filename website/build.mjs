@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 
 const root = dirname(fileURLToPath(import.meta.url));
 const SITE = "https://nathanneurotic.com";
-const CSS_VERSION = "2";
+const CSS_VERSION = "3";
 
 const nav = [
   ["work", "/work/", "Projects"],
@@ -49,7 +49,7 @@ ${meta.noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonica
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header">
 <div class="wrap">
-<a class="site-name" href="/">NathanNeurotic</a>
+<a class="site-name" href="/"><img src="/img/nn-emblem.webp" width="32" height="32" alt="">NathanNeurotic</a>
 <nav class="site-nav" aria-label="Main">${navHtml}</nav>
 </div>
 </header>
@@ -60,6 +60,7 @@ ${body.trim()}
 </main>
 <footer class="site-footer">
 <div class="wrap">
+<a class="frog" href="/side-quests/#frogs" title="ribbit" aria-label="This way to the frogs"><svg viewBox="0 0 64 44" width="44" height="30" aria-hidden="true"><path d="M4 44 Q4 16 32 16 Q60 16 60 44 Z" fill="#5d8a5a"/><g class="frog-eyes"><circle cx="20" cy="17" r="9" fill="#5d8a5a"/><circle cx="44" cy="17" r="9" fill="#5d8a5a"/><circle cx="20" cy="17" r="6.5" fill="#e8e4da"/><circle cx="44" cy="17" r="6.5" fill="#e8e4da"/><circle cx="20.5" cy="18" r="3" fill="#14121a"/><circle cx="44.5" cy="18" r="3" fill="#14121a"/></g></svg></a>
 <p>Nathan / Ripto &middot; <a href="mailto:contact@nathanneurotic.com">contact@nathanneurotic.com</a></p>
 <ul>
 <li><a href="https://github.com/NathanNeurotic">GitHub</a></li>
